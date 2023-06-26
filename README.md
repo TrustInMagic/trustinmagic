@@ -11,16 +11,28 @@ Hey there! 👋 I'm Tim, a self-taught developer with a passion for React and fr
 <a href="https://de.wikipedia.org/wiki/JavaScript">
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 </a>
+<a href="https://nextjs.org/">
+<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+</a>
+<a href="https://www.typescriptlang.org/">
+<img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+</a>
 <a href="https://jestjs.io/">
 <img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white"/>
 </a>
 <a href="https://www.npmjs.com/">
 <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
 </a>
+<a href="https://nodejs.org/">
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
+</a>
+
+
+
 
 ## Getting In Touch
 [![Gmail](https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:timionescu@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tim-ionescu-650a78110/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tim-ionescu/)
 
 
 
