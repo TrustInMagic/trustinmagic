@@ -1,5 +1,5 @@
 ## About me
-Hey there! 👋 I'm Tim, a self-taught developer with a passion for React and front-end development. I've always been fascinated by the world of technology and how it can shape our lives. My main focus lies in front-end development, where I specialize in React. React has captured my heart with its component-based architecture and the ability to create reusable UI elements. I love how it empowers me to build dynamic and cutting-edge user interfaces that enhance the overall user experience. Welcome to my GitHub profile!
+Hey there! 👋 I'm Tim, a dedicated developer skilled in React, TypeScript, and Node. My journey as a self-taught developer has been driven by my fascination with technology and its potential to transform our world. My expertise centers around front-end development, particularly using React, which I adore for its component-driven design and reusable UI components. More recently, I've delved into backend development with Node and Mongoose, expanding my toolkit to craft more comprehensive and dynamic solutions. I thrive on creating intuitive user interfaces that amplify user experiences. Thanks for visiting my GitHub profile!
 
 ## My Tech Stack 
 <a href="https://react.dev/">
