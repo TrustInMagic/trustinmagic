@@ -15,6 +15,12 @@ I am a software developer skilled in React, TypeScript, and Node. My journey as 
 <a href="https://nextjs.org/">
 <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
 </a>
+<a href="https://www.techopedia.com/definition/28243/cascading-style-sheets-level-3-css3">
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+</a>
+<a href="https://en.wikipedia.org/wiki/HTML5">
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+</a>
 <a href="https://tailwindcss.com/">
 <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </a>
@@ -26,6 +32,9 @@ I am a software developer skilled in React, TypeScript, and Node. My journey as 
 </a>
 <a href="https://nodejs.org/">
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
+</a>
+<a href="https://www.mongodb.com/">
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </a>
 <br /> <br />
  <a href="https://github.com/trustinmagic">
