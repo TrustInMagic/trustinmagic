@@ -1,6 +1,6 @@
 # Hi there 👋 I am Tim! <img style="height:30px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original.svg" />
 
-I am a software engineer skilled in React, TypeScript, and Node. My journey as a self-taught developer has been driven by my fascination with technology and its potential to transform our world. My expertise centers around front-end development, particularly using React, which I adore for its component-driven design and reusable UI components. More recently, I've delved into backend development with Node and Mongoose, expanding my toolkit to craft more comprehensive and dynamic solutions. I thrive on creating intuitive user interfaces that amplify user experiences. Thanks for visiting my GitHub profile!
+I am a software developer skilled in React, TypeScript, and Node. My journey as a self-taught developer has been driven by my fascination with technology and its potential to transform our world. My expertise centers around front-end development, particularly using React, which I adore for its component-driven design and reusable UI components. More recently, I've delved into backend development with Node and Mongoose, expanding my toolkit to craft more comprehensive and dynamic solutions. I thrive on creating intuitive user interfaces that amplify user experiences. Thanks for visiting my GitHub profile!
 
 ## Tech Stack 
 [![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
