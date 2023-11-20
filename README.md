@@ -21,7 +21,7 @@ I am a software developer skilled in React, TypeScript, and Node. My journey as 
 </a>
 
 ## Portfolio
-📜 <a href="www.timionescu.com">My Portfolio Website</a>
+📜 <a href="https://timionescu.com">My Portfolio Website</a>
 
 ## Getting In Touch
 [![Gmail](https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:timionescu@gmail.com)
